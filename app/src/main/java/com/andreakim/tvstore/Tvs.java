@@ -9,6 +9,14 @@ public class Tvs {
     public String size;
     public int price;
 
+
+    public Tvs(int id, String name, String brand, int price) {
+        this.id = id;
+        this.brand = brand;
+        this.price = price;
+        this.size = size;
+    }
+
     public int getId() {
         return id;
     }
