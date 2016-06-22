@@ -38,7 +38,7 @@ public class DatabaseHelper extends SQLiteOpenHelper{
         insertTv(3,"sharp","24 inch",110);
         insertTv(4,"sony","49 inch",350);
         insertTv(5,"ge","36 inch",220);
-        
+
         //sample data
     }
 
